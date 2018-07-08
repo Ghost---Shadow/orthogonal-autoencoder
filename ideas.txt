@@ -1,0 +1,5 @@
+- break latent space into two and use it as VAE. Only orthogonalize the means.
+- break latent space into multiple and orthogonalize them independently
+
+- compare with VAE + softmax
+- test on CIFAR 10
